@@ -6,7 +6,7 @@ Symbols
 
 Alguns atalhos
 F1 para seach
-alt Q
+ctrl Q
 ctrl B
 ctrl "
 
